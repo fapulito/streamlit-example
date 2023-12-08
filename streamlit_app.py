@@ -4,9 +4,9 @@ import pandas as pd
 import streamlit as st
 
 """
-# Future Home of Hausdog Pet Concierge!
+## Future Home of Hausdog Pet Concierge!
 
-In the meantime, try using this app to create a spiral:
+### In the meantime, try using this app to create a spiral:
 """
 
 num_points = st.slider("Number of points in spiral", 1, 10000, 1100)
